@@ -1,4 +1,4 @@
-# ACMOE for Android
+# ACMOE for world
 
 一个使用 **sing-box内核** 的 跨平台 代理客户端。0.12.0 修复节点链接中的编码凭据、大小写协议名与 VMess 错误参数，并保留扫码页旋转和后台返回时的图片任务与选择结果；沿用 0.11.0 的 7 项审计修复；支持本地二维码扫描、图片识别、节点分享和 Clash YAML 导入；保留仅格言常驻的连接页、液态玻璃面板与图标操作。Android 界面由本项目独立绘制，代理功能沿用已有实现；项目与 Shadowrocket / SagerNet / YumeBox / Apple 没有关联。
 
